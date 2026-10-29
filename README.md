@@ -1,4 +1,5 @@
 ## Hi there 👋
+[![Website](https://img.shields.io/badge/Website-Genuine%20ITs-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://sachinschavan37.github.io/genuineits-website/)
 
 <!--
 **sachinschavan37/sachinschavan37** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
